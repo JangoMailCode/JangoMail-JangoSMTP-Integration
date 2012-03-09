@@ -1,0 +1,7 @@
+This repository contains integration examples for several different languages and platforms. Check the code folder for the language or platform used by your company.
+
+Also check out the JangoMail Web Service Tutorial at http://www.jangomail.com/documents/Public/JangoMail_Tutorial_API.pdf
+
+And the full JangoMail API specification is here: http://api.jangomail.com/
+
+Don't forget that you don't necessarily need to use the API to integrate with JangoMail or JangoSMTP. Some features are accessible via email.
